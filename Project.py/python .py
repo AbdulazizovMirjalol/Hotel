@@ -11,7 +11,7 @@ clients = {}
 
 
 
-# XONALAR RO'YXATI
+# XONALAR RO'YXATi
 
 def show_rooms():
     print("\n" + "XONALAR RO'YXATI".center(80, "-"))
